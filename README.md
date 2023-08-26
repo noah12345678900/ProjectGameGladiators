@@ -32,4 +32,4 @@ Provide students with the opportunity to learn the Linux Operating System and it
 
 
 ## Creators of Game Gladiators
-Jaskolski, Lim, Rees, Alazeezi, Bernabe Avila
+Alazeezi, Bernabe Avila, Jaskolski, Lim, Rees 
