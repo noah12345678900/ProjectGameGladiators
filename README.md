@@ -28,7 +28,3 @@ Provide students with the opportunity to learn the Linux Operating System and it
 7. Install dlandon/z80pack using docker-compose onto ec2
 8. Install and setup npm on docker 
 9. Create additional levels/website functionality using html and upload to github 
-
-
-## Creators of Game Gladiators
-Alazeezi, Bernabe Avila, Jaskolski, Lim, Rees 
